@@ -106,6 +106,7 @@ To share your Veracrypt volumes over the network, add the following configuratio
    - Verify container permissions
    - Check path configurations
    - Ensure correct credentials
+   - Make sure image is mount in Veracrypt
 
 2. **SMB Access Issues**:
    - Confirm user permissions
