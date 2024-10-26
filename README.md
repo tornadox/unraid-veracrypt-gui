@@ -42,7 +42,7 @@ The template comes with the following pre-configured settings:
   - `/mnt/disks` → `/media/`
 - **Timezone**: Europe/Kiev (configurable)
 
-For more detailed information, visit the [USAGE GUIDE](./USAGE.md).
+**For more detailed information, visit the [USAGE GUIDE](./USAGE.md).**
 
 ## 🔧 Technical Details
 
