@@ -81,6 +81,8 @@ To share your Veracrypt volumes over the network, add the following configuratio
 2. Add the above configuration
 3. Replace `%%username%%` with your actual username
 4. Save and restart the SMB service
+5. Now you should see your share on your server
+
 ![Screenshot 2024-10-27 010340](https://github.com/user-attachments/assets/fa21607c-559d-4988-af5a-5bb39dfb0ece)
 
 
