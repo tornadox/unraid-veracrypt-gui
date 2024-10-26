@@ -118,23 +118,6 @@ To share your Veracrypt volumes over the network, add the following configuratio
    - Check port configuration
    - Review container logs
 
-For additional support:
-- Check container logs in Unraid
-- Visit the [Support Forum](link-to-forum)
-- Review [GitHub Issues](link-to-issues)
-
-## 🔄 Updates and Maintenance
-
-1. **Container Updates**:
-   - Regularly check for updates
-   - Back up configurations before updating
-   - Test functionality after updates
-
-2. **Backup Recommendations**:
-   - Back up container configuration
-   - Document any custom settings
-   - Keep secure copies of volume headers
-
 ---
 
 For more detailed information, visit the [main README](./README.md).
