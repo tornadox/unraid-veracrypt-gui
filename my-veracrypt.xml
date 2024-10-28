@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>veracrypt</Name>
+  <Repository>dcflachs/veracrypt-gui</Repository>
+  <Registry/>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>true</Privileged>
+  <Support/>
+  <Project/>
+  <Overview/>
+  <Category/>
+  <WebUI>http://[IP]:[PORT:5800]</WebUI>
+  <TemplateURL/>
+  <Icon>https://avatars.githubusercontent.com/u/7925881?s=48&amp;amp;v=4</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1729977906</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <Config Name="Host Key 1" Target="DISPLAY_WIDTH" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">1280</Config>
+  <Config Name="Host Key 2" Target="DISPLAY_HEIGHT" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">720</Config>
+  <Config Name="Host Port 1" Target="5800" Default="" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">5800</Config>
+  <Config Name="Host Path 1" Target="/config/" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/veracrypt-gui</Config>
+  <Config Name="Host Path 2" Target="/mnt/containers/" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/containers</Config>
+  <Config Name="Host Path 3" Target="/media/" Default="" Mode="rw,shared" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/disks</Config>
+  <Config Name="Host Key 3" Target="TZ" Default="" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">Europe/Kiev</Config>
+</Container>
